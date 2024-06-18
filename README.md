@@ -30,7 +30,7 @@ A comprehensive online retail solution developed with HTML, CSS, PHP, and MySQL,
 **<h4>Screenshots:</h4>**
 <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <b><u>Customer Home:</u></b> <br>
-    <img src="ScreeenShot/customer_home.jpg" alt="Screenshot 1" width="700">
+    <img src="ScreenShot/customer_home.jpg" alt="Screenshot 1" width="700">
 </div>
 <br> <br>
 <div style="display: inline-block; text-align: center; margin-right: 20px;">
